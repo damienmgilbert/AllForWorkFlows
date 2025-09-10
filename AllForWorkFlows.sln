@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllForWorkFlows", "AllForWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllForWorkFlowsTests", "AllForWorkFlowsTests\AllForWorkFlowsTests.csproj", "{95BCF9B6-40AB-4774-ACB0-FB5B8E684861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllForWorkFlowsConsoleApp", "AllForWorkFlowsConsoleApp\AllForWorkFlowsConsoleApp.csproj", "{D46B097E-1F68-4E79-8E1F-366613A46F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95BCF9B6-40AB-4774-ACB0-FB5B8E684861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95BCF9B6-40AB-4774-ACB0-FB5B8E684861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95BCF9B6-40AB-4774-ACB0-FB5B8E684861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46B097E-1F68-4E79-8E1F-366613A46F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46B097E-1F68-4E79-8E1F-366613A46F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46B097E-1F68-4E79-8E1F-366613A46F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46B097E-1F68-4E79-8E1F-366613A46F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
